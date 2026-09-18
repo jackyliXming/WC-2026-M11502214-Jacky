@@ -10,7 +10,7 @@
 
 ## :notebook_with_decorative_cover: Assignment
 
-- **LAB0: Basic Wireshark Operational and Capture**
+- **LAB0: Basic wireshark operation and capture**
     - Assignment Information: [Lab0](https://hackmd.io/@Z4OmT2gcTXeLxBPXrn-2SQ/ry3RfjvFMg)
     - **Deadline : 12:00, Sep. 28**
     - Goal:
