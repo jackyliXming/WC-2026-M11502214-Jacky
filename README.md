@@ -27,8 +27,16 @@ In this lab, you will use Wireshark to analyze how a UE establishes an RRC conne
 
 - **LAB2 : gNB TDD Traffic Analysis
     -  Assignment Information: [Lab2](https://hackmd.io/@Z4OmT2gcTXeLxBPXrn-2SQ/BJkbO0juze)
-    -  **Deadline : 12:00, Oct. 5**
+    -  **Deadline : 12:00, Nov. 9**
     - Goal:
 In this lab,you will compare three 5-second UDP iperf3 tests. You will learn how TDD slot allocation can affect downlink and uplink performance.
     - - delivery: [李浚銘 Assignment Lab2](https://github.com/jackyliXming/WC-2026-M11502214-Jacky/blob/main/Lab2/Lab2_%20gNB_TDD_Traffic_Analysis.md)
-    -  [ ] Peer review : [Vote the Top3](https://docs.google.com/forms/d/e/1FAIpQLScz-Kt_9ArkXOl8sG99549xqGK7W7vAqoY4lbbc3ph03zvFaw/viewform?usp=publish-editor) (DL: 23:59, Oct.7)
+    -  [ ] Peer review : [Vote the Top3](https://docs.google.com/forms/d/e/1FAIpQLScz-Kt_9ArkXOl8sG99549xqGK7W7vAqoY4lbbc3ph03zvFaw/viewform?usp=publish-editor) (DL: 23:59, Nov.11)
+
+- **LAB3 : Deploying a 5G Standalone Network Using OpenAirInterface
+    -  Assignment Information: [Lab3](https://hackmd.io/_13mS4lLSY-pVwvtiHfPMw?view)
+    -  **Deadline : 12:00, Nov. 16**
+    - Goal:
+In this lab, the network is deployed using OpenAirInterface (OAI).
+    - - delivery: [李浚銘 Assignment Lab3](https://github.com/jackyliXming/WC-2026-M11502214-Jacky/blob/main/Lab3/Lab3_Deploying_a_5G_Standalone_Network_Using_OpenAirInterface.md)
+    -  [ ] Peer review : [Vote the Top3]() (DL: 23:59, Nov.18)
