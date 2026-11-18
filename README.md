@@ -40,3 +40,12 @@ In this lab,you will compare three 5-second UDP iperf3 tests. You will learn how
 In this lab, the network is deployed using OpenAirInterface (OAI).
     - - delivery: [李浚銘 Assignment Lab3](https://github.com/jackyliXming/WC-2026-M11502214-Jacky/blob/main/Lab3/Lab3_Deploying_a_5G_Standalone_Network_Using_OpenAirInterface.md)
     -  [ ] Peer review : [Vote the Top3](https://docs.google.com/forms/d/e/1FAIpQLSdZU5XDcT-Femoaxh8xfQmv2q19WAvMolqRFi78RIgHxgj8Dw/viewform) (DL: 23:59, Nov.18)
+
+- **LAB4 : 5G CU/DU Split Deployment and F1-C/F1-U Analysis
+    -  Assignment Information: [Lab4](https://hackmd.io/uMmEMQrUSvay4aWaGphB7g?view)
+    -  **Deadline : 12:00, Nov. 23**
+    - Goal:
+In this lab, the network is deployed using OpenAirInterface (OAI) with an F1-split gNB architecture, where the gNB is separated into a Central Unit (CU) and a Distributed Unit (DU).
+Students will observe and analyze the communication between different network components, including CU, DU, 5G Core and UEs. The lab also introduces important protocols such as F1AP, NGAP, GTP, RLC, and E2AP.
+    - - delivery: [李浚銘 Assignment Lab4](https://github.com/jackyliXming/WC-2026-M11502214-Jacky/blob/main/Lab4/Lab%204%20%E2%80%94%205G%20CU_DU%20Split%20Deployment%20and%20F1-C_F1-U%20Analysis.md)
+    -  [ ] Peer review : [Vote the Top3](https://forms.gle/dZknk7FfgeMVy5gW8) (DL: 23:59, Nov.18)
