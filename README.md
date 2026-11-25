@@ -48,4 +48,14 @@ In this lab, the network is deployed using OpenAirInterface (OAI).
 In this lab, the network is deployed using OpenAirInterface (OAI) with an F1-split gNB architecture, where the gNB is separated into a Central Unit (CU) and a Distributed Unit (DU).
 Students will observe and analyze the communication between different network components, including CU, DU, 5G Core and UEs. The lab also introduces important protocols such as F1AP, NGAP, GTP, RLC, and E2AP.
     - - delivery: [李浚銘 Assignment Lab4](https://github.com/jackyliXming/WC-2026-M11502214-Jacky/blob/main/Lab4/Lab%204%20%E2%80%94%205G%20CU_DU%20Split%20Deployment%20and%20F1-C_F1-U%20Analysis.md)
-    -  [ ] Peer review : [Vote the Top3](https://forms.gle/dZknk7FfgeMVy5gW8) (DL: 23:59, Nov.18)
+    -  [ ] Peer review : [Vote the Top3](https://forms.gle/dZknk7FfgeMVy5gW8) (DL: 23:59, Nov.25)
+
+ - **LAB5 : From Initial Access to RRC Connection Setup
+    -  Assignment Information: [Lab5](https://github.com/zongyi0311/WC-course-2026/tree/main/Lab5)
+    -  **Deadline : 12:00, Nov. 30**
+    - Goal:
+Trace a successful NR Initial Access procedure from cell search to RRC_CONNECTED.
+Use UE logs and Wireshark MAC-NR PCAP to identify MIB/SIB1, 4-step Random Access, and RRC setup messages.
+Reconstruct the UE–gNB message sequence and distinguish RAN access from 5GC registration.
+    - - delivery: [李浚銘 Assignment Lab5](https://github.com/jackyliXming/WC-2026-M11502214-Jacky/blob/main/Lab5/Lab%205_%20From%20Initial%20Access%20to%20RRC%20Connection%20Setup.md)
+    -  [ ] Peer review : [Vote the Top3](https://docs.google.com/forms/d/e/1FAIpQLSfpKvx7YearQIE6tBgbepTxCc5qGPC8sktOcpu58qNb8HB_iA/viewform) (DL: 23:59, Dec.02)
